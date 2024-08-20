@@ -1,0 +1,7 @@
+[2m2024-08-20 11:45:46[0m [[32m[1minfo     [0m] [1midentifier='https://google.com' type='URL' last_analysis_time=datetime.datetime(2024, 8, 20, 7, 4, 23, tzinfo=TzInfo(UTC)) is_malicious=False[0m
+[2m2024-08-20 11:45:46[0m [[32m[1minfo     [0m] [1midentifier='8.8.8.8' type='IP' last_analysis_time=datetime.datetime(2024, 8, 20, 7, 21, 14, tzinfo=TzInfo(UTC)) is_malicious=False[0m
+[2m2024-08-20 11:45:47[0m [[32m[1minfo     [0m] [1midentifier='1.1.1.1' type='IP' last_analysis_time=datetime.datetime(2024, 8, 20, 6, 53, 54, tzinfo=TzInfo(UTC)) is_malicious=True[0m
+[2m2024-08-20 11:45:48[0m [[33m[1mwarning  [0m] [1mThere is not result scan      [0m [36mresource[0m=[35mhttp://malicious-website.com[0m
+[2m2024-08-20 11:45:48[0m [[32m[1minfo     [0m] [1midentifier='https://example.com/badpath' type='URL' last_analysis_time=datetime.datetime(2024, 8, 20, 6, 56, 52, tzinfo=TzInfo(UTC)) is_malicious=True[0m
+[2m2024-08-20 11:45:49[0m [[32m[1minfo     [0m] [1midentifier='192.168.1.1' type='IP' last_analysis_time=datetime.datetime(2024, 8, 20, 6, 50, 44, tzinfo=TzInfo(UTC)) is_malicious=False[0m
+[2m2024-08-20 11:45:49[0m [[32m[1minfo     [0m] [1midentifier='http://phishing-site.org' type='URL' last_analysis_time=datetime.datetime(2024, 8, 20, 6, 57, 41, tzinfo=TzInfo(UTC)) is_malicious=False[0m
